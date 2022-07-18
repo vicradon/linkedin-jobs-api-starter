@@ -25,7 +25,13 @@ cd linkedin-jobs-api-starter
 npm install
 ```
 
-4. Run the development server using the command below:
+4. Create a local copy of the example environment variables file using the command below:
+
+```bash
+cp .env.example .env
+```
+
+5. Run the development server using the command below:
 
 ```bash
 npm run dev
